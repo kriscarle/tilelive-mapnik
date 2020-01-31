@@ -28,7 +28,7 @@
   ],
   "dependencies": {
     "generic-pool": "~2.4.0",
-    "mapnik": "~4.2.1",
+    "mapnik": "~4.4.0",
     "mime": "^2.4.0",
     "step": "~0.0.5"
   },
